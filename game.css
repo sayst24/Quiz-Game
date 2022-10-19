@@ -1,0 +1,154 @@
+#game{
+  padding: 2rem 5rem;
+  border: 0.2rem solid #56a6eb;
+  position: relative;
+}
+.audio-button{
+  margin: 0;
+}
+
+.choice-container {
+  display: flex;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  font-size: 1.8rem;
+  border: 0.1rem solid rgba(86,165,235,0.25);
+  background-color: white;
+}
+
+.choice-container:hover{
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;
+}
+
+.choice-prefix{
+  padding: 1.5rem 2.5rem;
+  background-color: #56a5eb;
+  color: white;
+}
+
+.choice-text{
+  padding: 1.5rem;
+  width: 100%;
+}
+
+.correct {
+  background-color: #28a745;
+
+}
+
+.incorrect {
+  background-color: #dc3545;
+}
+#question{
+  max-height: 8.4rem;
+  font-size: 42px;
+}
+
+#question span {
+  font-size: 2rem;
+  color: rgb(65,184,131);
+}
+
+/* HUD */
+
+#hud {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hud-prefix {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.hud-main-text {
+  text-align: center;
+}
+
+#progress-bar {
+  display: block;
+  width: 20rem;
+  height: 4rem;
+  border: 0.4rem solid #56a5eb;
+  margin-top: 2rem;
+}
+
+#progress-bar-full {
+  height: 3.4rem;
+  background-color: #56a5eb;
+  width: 0;
+  margin: 0;
+  transform: translateY(-0.05rem);
+  position: relative;
+}
+
+#progress-bar-streak{
+  height: 3.4rem;
+  width: 0;
+  margin: 0;
+  position: absolute;
+  top:0;
+  right: 0;
+}
+
+/*TIMER*/
+
+#timer{
+  height: 6rem;
+  width: 6rem;
+  margin-top: 1rem;
+  position: relative;
+}
+
+#timer-circle{
+  fill: none;
+  stroke: none;
+}
+
+#timer-full{
+  stroke-width: 0.7rem;
+  stroke: gray;
+}
+
+#timer-time{
+  position: absolute;
+  width: 6rem;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  font-size: 2rem;
+}
+
+#time-remaining {
+  stroke-width: 0.7rem;
+  stroke-linecap: round;
+  transform: rotate(90deg);
+  transform-origin: center;
+  transition: 1s linear all;
+  stroke: currentColor;
+}
+
+#time-remaining.green {
+  color: rgb(65,184,131);
+}
+
+#time-remaining.yellow {
+  color: rgb(218, 213, 47);
+}
+
+#time-remaining.orange {
+  color: orange;
+}
+
+#time-remaining.red {
+  color: red;
+}
+
+#timer svg {
+  transform: scaleX(-1);
+}

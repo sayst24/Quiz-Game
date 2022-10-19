@@ -1,0 +1,30 @@
+<!DOCTYPE html/>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>High Scores</title>
+    <link rel="stylesheet" href="app.css" type="text/css"/>
+    <link rel="stylesheet" href="highscores.css" type="text/css"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+      <div id="loader"></div>
+      <div id="highScores" class="flex-center flex-column hidden">
+        <h1 id="finalScore">High Scores</h1>
+        <table id="highscore-list"></table>
+        <a class="button" id="game.html">Play Again</a>
+        <a class="button" id="start.html">Go Home</a>
+        <button class="audio-button button">
+          <i class="muteIcon fas fa-volume-up hidden"></i>
+          <i class="muteIcon fas fa-volume-mute"></i>
+        </button>
+      </div>
+    </div>
+    <div class="audio">
+      <audio id="boom" autoplay muted="true" src="audio/boom.mp3"></audio>
+    </div>
+    <script src="script.js"></script>
+    <script src="highscores.js"></script>
+  </body>
+</html>

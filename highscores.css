@@ -1,0 +1,66 @@
+#highScores {
+  padding: 1rem 0;
+  border: 0.2rem solid #56a6eb;
+  position: relative;
+}
+
+#highscore-list{
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 4rem;
+  width: 100%;
+}
+
+.high-score {
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.high-score td {
+  padding: 0 0.5rem;
+  width: auto;
+  margin: 0 auto;
+
+}
+
+.rank{
+  text-align: right;
+  padding-right: 4rem !important;
+}
+
+.name{
+  text-align: left;
+}
+
+tr:first-child{
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+#new-score{
+  font-weight: lighter;
+  font-size: 2.5rem;
+}
+
+#placeholder{
+  height: 2rem;
+}
+
+.high-score:hover, #new-score:hover {
+  transform: scale(1.025);
+}
+
+@keyframes newScore {
+  0% {
+    font-size: 0;
+    transform: scale(0);
+  }
+  30% {
+    font-size: 4rem;
+    transform: scale(1.4285);
+  }
+  100%{
+    font-size: 2.8rem;
+    transform: scale(1);
+  }
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html/>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Quick Quiz</title>
+    <link rel="stylesheet" href="app.css" type="text/css"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
+  </head>
+  <body class="muted">
+    <div class="container">
+      <div id="loader"></div>
+      <div id="home" class="flex-center flex-column hidden">
+        <h1>Quick Quiz</h1>
+        <a id="game.html" class="button">Play</a>
+        <a class="button" id="highscores.html">High Scores</a>
+        <a id="rules.html" class="button">Instructions</a>
+        <button class="audio-button button">
+          <i class="muteIcon fas fa-volume-up hidden"></i>
+          <i class="muteIcon fas fa-volume-mute"></i>
+        </button>
+      </div>
+    </div>
+    <script>
+      //start muted
+      localStorage.setItem('mute', true);
+      history.replaceState(null,"",'start.html');
+    </script>
+    <script src="script.js"></script>
+  </body>
+</html>

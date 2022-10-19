@@ -1,0 +1,24 @@
+#end{
+  padding: 3rem 0;
+  border: 0.2rem solid #56a6eb;
+  position: relative;
+}
+#finalScore {
+  font-size: 0;
+  transform: rotate(0deg);
+  animation-name: larger;
+  animation-duration: 3s;
+  animation-timing-function: ease-in;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+@keyframes larger{
+  0% {
+    font-size: 0;
+    transform: rotate(0deg);
+  }
+  100% {
+    font-size: 5.4rem;
+    transform: rotate(1080deg);
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "results":[
+    {
+      "question": "What is the Greek name for Piper’s dagger?",
+      "correct_answer": "Katoptris",
+      "incorrect_answers": ["Sumarbrander", "Anaklusmos", "Helen"]
+    },
+    {
+      "question" : "What name did Daedalus use while he was in disguise?",
+      "correct_answer": "Quintus",
+      "incorrect_answers": ["Mrs. O'leary","Mr. D","Tantalus" ]
+      },
+    {
+      "question" : "What is the full name of Percy Jackson’s little sister?",
+      "correct_answer": "Estelle Blofis",
+      "incorrect_answers": ["Rachel Elizabeth Dare","Sally Jackson","Silena Beauregard"]
+      },
+    {
+      "question" : "What is the name of Percy’s sword?",
+      "correct_answer": "Riptide",
+      "incorrect_answers": ["Jack","Perseus","Ivlivs"]
+      },
+    {
+      "question" : "What is the name of Annabeth’s cousin who has his own book series?",
+      "correct_answer": "Magnus Chase",
+      "incorrect_answers": ["Car Chase","Frank Zhang","Carter Kane"]
+      },
+    {
+      "question" : "What kind of animal can Percy commune with?",
+      "correct_answer": "Horses",
+      "incorrect_answers": ["Elephants","Dogs","Pigeons"]
+      },
+    {
+      "question" : "In what book did we first meet Nico di Angelo?",
+      "correct_answer": "The Titan’s Curse",
+      "incorrect_answers": ["The Lightning Thief","The House of Hades","The Dark Prophecy"]
+      },
+    {
+      "question" : "What is the name of the hotel that stops you from aging?",
+      "correct_answer": "The Lotus Hotel",
+      "incorrect_answers": ["Hotel Elixir of Life","Mount Olympus","Hilton Los Angeles"]
+      },
+    {
+      "question" : "What is Apollo’s human name?",
+      "correct_answer": "Lester Papadopoulos",
+      "incorrect_answers": ["Bob Marley","Aiden Pollock","Peter Johnson"]
+      },
+    {
+    "question" : " What supercharged game do all campers play to prove their battle readiness?",
+    "correct_answer": "Capture the Flag",
+    "incorrect_answers": ["Climb the Lava Wall","Cannon Balls","Freeze Tag"]
+    },
+    {
+    "question" : " Who created the labyrinth?",
+    "correct_answer": "Daedalus",
+    "incorrect_answers": ["King Midas","Chiron","Achilles"]
+    },
+    {
+    "question" : " What is the name of Nico di Angelo’s favorite method of travel?",
+    "correct_answer": "Shadow Travel",
+    "incorrect_answers": ["Sailing","Iris Travel","Dark-Train"]
+    },
+    {
+    "question" : " Bob makes Percy promise to say hello to what?",
+    "correct_answer": "The stars",
+    "incorrect_answers": ["Kronos","Aphrodite","The fishies"]
+    },
+    {
+    "question" : " How many schools was Percy expelled from over the course of six years?",
+    "correct_answer": "Six",
+    "incorrect_answers": ["Twelve","Three","Nine"]
+    },
+    {
+    "question" : " What is Rachel Dare’s middle name?",
+    "correct_answer": "Elizabeth",
+    "incorrect_answers": ["Amelia","Sophia","Katelyn"]
+    },
+    {
+    "question" : "How many days did Percy and Annabeth fall into Tartarus?",
+    "correct_answer": "Nine",
+    "incorrect_answers": ["Twentytwo","Five","Fifteen"]
+    },
+    {
+    "question" : " What does Camp Half-Blood look like to mortals?",
+    "correct_answer": "A strawberry field",
+    "incorrect_answers": ["Summer Camp","Private Mansion","Volcano"]
+    },
+    {
+    "question" : " During the Demigod Civil War, Bunker 9 was used as a command post for which cabin?",
+    "correct_answer": "Hephaestus",
+    "incorrect_answers": ["Zeus","Athena","Ares"]
+    },
+    {
+    "question" : " Where did Percy first meet Rachel Elizabeth Dare?",
+    "correct_answer": "The Hoover Dam",
+    "incorrect_answers": ["Disney World","Lincoln Memorial","Mount Olympus"]
+    },
+    {
+    "question" : " What’s the name of the hellhound Percy befriends?",
+    "correct_answer": "Mrs. O'Leary",
+    "incorrect_answers": ["Fluffy","Rainbow","Estelle"]
+    },
+    {
+    "question" : " What mythical object revived Thalia?",
+    "correct_answer": "The Golden Fleece",
+    "incorrect_answers": ["Riptide","Bread of Demeter","Caduceus"]
+    },
+    {
+    "question" : " Who relieves Annabeth of her burden holding up the sky?",
+    "correct_answer": "Artemis",
+    "incorrect_answers": ["Luke","Percy","Athna"]
+    },
+    {
+    "question" : " What is the name of Luke’s ship?",
+    "correct_answer": "The Princess Andromeda",
+    "incorrect_answers": ["Argo II","Julia Drusilla","Poseidon"]
+    },
+    {
+    "question" : " Who owns C.C's Spa and Resort?",
+    "correct_answer": "Circe",
+    "incorrect_answers": ["Hestia","Reyna Avila Ramirez-Arellano","Cambodia"]
+      },
+    {
+    "question" : " Who did Polyphemus try to marry?",
+    "correct_answer": "Grover",
+    "incorrect_answers": ["Annabeth","Piper","Percy"]
+    },
+    {
+    "question" : " The hippocampi are a combination of what two animals?",
+    "correct_answer": "Horse and Fish",
+    "incorrect_answers": ["Hippo and Horse","Fish and Bird","Bird and Hippo"]
+    },
+    {
+    "question" : " What is the name of the ability that Piper uses to get people to do what she wants?",
+    "correct_answer": "Charmspeak",
+    "incorrect_answers": ["Shouting","Hypnosis","Politely asking"]
+    },
+    {
+    "question" : " What does Tristan McLean do for a living?",
+    "correct_answer": "Actor",
+    "incorrect_answers": ["Bodybuilder","Clerk","Fisherman"]
+    },
+    {
+    "question" : " Who currently leads the Hunters of Artemis?",
+    "correct_answer": "Thaila Grace",
+    "incorrect_answers": ["Annabeth Chase","Grover","Zoë Nightshade"]
+    },
+    {
+    "question" : " What subject does Mr. Brunner teach?",
+    "correct_answer": "Latin",
+    "incorrect_answers": ["Algebra I","English","Art"]
+      },
+    {
+    "question" : " Who is the earthshaker, the stormbringer, the father of horses?",
+    "correct_answer": "Poseidon",
+    "incorrect_answers": ["Zeus","Hades","Apollo"]
+    },
+    {
+    "question" : " What two creatures attack Percy at the top of the Gateway Arch?",
+    "correct_answer": "Echidna and the Chimera",
+    "incorrect_answers": ["Kampê and a Cyclops","Minotaur and Gorgon","Scylla and Charybdis"]
+    },
+    {
+    "question" : " Where do ordinary souls go after they’ve died in Greek Mythology?",
+    "correct_answer": "The Fields of Asphodel",
+    "incorrect_answers": ["Elysium","Hel","Duat"]
+    },
+    {
+    "question" : " Swearing on what river is the most serious oath you can make?",
+    "correct_answer": "The River Styx",
+    "incorrect_answers": ["The River Lethe","The Hudson River","The River Phlegethon"]
+    },
+    {
+    "question" : " The River Lethe is also known as the river of what?",
+    "correct_answer": "Forgetfulness",
+    "incorrect_answers": ["Night","Hatred","Fire"]
+    },
+    {
+    "question" : "After calling Hera 'Her Majesty, the Loose Canon,' what does the goddess threaten to turn Thalia into?",
+    "correct_answer": "An aardvark",
+    "incorrect_answers": ["A peacock","A cow","A hippopotamus"]
+    },
+    {
+    "question" : " What is the name of the school Percy attends in the first book?",
+    "correct_answer": "Yancy Academy",
+    "incorrect_answers": ["Wilderness School","Goode High School","Westover Hall"]
+    },
+    {
+    "question" : " Where is the Lotus Hotel located?",
+    "correct_answer": "Las Vegas",
+    "incorrect_answers": ["Los Angeles","Topeka","Brooklynn"]
+    },
+    {
+    "question" : " Don from Camp Jupiter is what kind of creature?",
+    "correct_answer": "A Faun",
+    "incorrect_answers": ["A Donut","An Elephant","A Nymph"]
+    },
+    {
+    "question" : " Who does Grover have an Empathy Link with?",
+    "correct_answer": "Percy",
+    "incorrect_answers": ["Annabeth","Don","Coach Hedge"]
+    },
+    {
+    "question" : " Which cabin at Camp Half-Blood has the least amount of inhabitants?",
+    "correct_answer": "Hera",
+    "incorrect_answers": ["Zeus","Poseidon","Hades"]
+    },
+    {
+    "question" : " Before renovation, the children of minor gods stayed in which cabin?",
+    "correct_answer": "Hermes (Cabin 11)",
+    "incorrect_answers": ["Unwanteds (Cabin 0)","Zues (Cabin 1)","Hera (Cabin 2)"]
+    },
+    {
+    "question" : "Which goddess controls The Mist?",
+    "correct_answer": "Hecate",
+    "incorrect_answers": ["Hera","Hestia","Hebe"]
+    },
+    {
+    "question" : " What does Meg McCaffrey’s outfit remind Apollo of?",
+    "correct_answer": "A traffic light",
+    "incorrect_answers": ["An icecream cone","Abstract art","A crime scene"]
+    },
+    {
+    "question" : " Who is the current architect of Olympus?",
+    "correct_answer": "Annabeth",
+    "incorrect_answers": ["Athena","Daedalus","Apollo"]
+    },
+    {
+    "question" : "Why did Luke’s mother go insane?",
+    "correct_answer": "She tried to become the Oracle of Delphi",
+    "incorrect_answers": ["She angered Dionysus","She tripped and cracked her head open","She was tortured by Iapetus"]
+    },
+    {
+    "question" : " Who is Charybdis’ sister?",
+    "correct_answer": "Scylla",
+    "incorrect_answers": ["Medusa","Arachne","Hydra"]
+    },
+    {
+    "question" : " What animal did Circe turn Percy into?",
+    "correct_answer": "Guinea pig",
+    "incorrect_answers": ["Horse","Squirrel","Cow"]
+    },
+    {
+    "question" : " What is Thalia afraid of?",
+    "correct_answer": "Heights",
+    "incorrect_answers": ["Spiders","Small spaces","Trees"]
+    },
+    {
+    "question" : "What plant does Triptolemus turn Nico into?",
+    "correct_answer": "Corn",
+    "incorrect_answers": ["Pine Tree","Sunflower","Watermelon"]
+    }
+  ]
+}
